@@ -1,0 +1,2 @@
+Force redeploy trigger file. Timestamp: 2026-07-05T21:12:00Z
+I updated package.json version to 0.0.1 to force a fresh deployment.
