@@ -100,7 +100,10 @@ a. Wireframe / Mock Diagram
 +---------------------------------------------------------------------------------+
 ```
 
-b. 
+b. Architecture Diagram
+
+The system architecture follows a request-response flow centered around AI-driven analysis.
+
 ```mermaid
 
 graph TD
@@ -121,7 +124,7 @@ graph TD
     Heatmap["src/components/Heatmap.tsx"] -->|"Visualize Coordinates"| App
 ```
 
-c, Key Architectural Details
+c. Key Architectural Details
 
 Frontend (React/Vite):
 
